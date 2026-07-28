@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=210&section=header&text=Sachin%20MP&fontSize=58&fontAlignY=36&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer&desc=AI%20MLk%20EnthusiastdescSize=20&descAlignY=56&descColor=e8e8e8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=210&section=header&text=Sachin%20MP&fontSize=56&fontAlignY=35&fontColor=ffffff&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=17&descAlignY=58&descColor=e8e8e8" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=560&lines=Java+%7C+Spring+Boot+%7C+Full+Stack+Development;Building+scalable+backend+systems;AI%2FML+enthusiast+on+the+side;Always+learning%2C+always+shipping." />
@@ -14,7 +14,7 @@
 
 </div>
 
-Final-year CSE student at Cambridge Institute of Technology, Bengaluru, working toward a career in Java Full Stack Development. Comfortable across the stack — Java on the backend, JavaScript on the front, SQL/NoSQL underneath — with a parallel interest in AI/ML picked up through a Samsung Innovation Campus internship.
+Final-year CSE student at Cambridge Institute of Technology, Bengaluru, working toward a career in Java Full Stack Development. Comfortable across the stack — Java on the backend, JavaScript on the front, SQL/NoSQL underneath — with a strong parallel interest in AI/ML, built through a Samsung Innovation Campus internship and hands-on project work.
 
 ---
 
