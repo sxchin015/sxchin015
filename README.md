@@ -66,16 +66,16 @@ Final-year CSE student at Cambridge Institute of Technology, Bengaluru, working 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sxchin015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxchin015&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sxchin015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxchin015&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sxchin015&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=sxchin015&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxchin015&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxchin015&theme=tokyo-night&hide_border=true&cache_seconds=86400" width="90%" />
 </p>
 
 ---
