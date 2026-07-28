@@ -4,7 +4,7 @@
 </div>
 
 # 💫 About Me:
-👋 Hi, I'm Sachin<br><br>I’m passionate about AI/ML, Data Science, and Data Analysis, with a strong foundation in Python.<br>I love exploring data, building models, and creating smart solutions that solve real-world problems.<br>Always learning, always building. 🚀
+👋 Hi, I'm Sachin<br><br>I’m passionate about AI/ML and Java Full Stack Development with a strong foundation in Python.<br>I love exploring data, building models, and creating smart solutions that solve real-world problems.<br>Always learning, always building. 🚀
 
 
 ## 🌐 Socials:
