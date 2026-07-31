@@ -33,7 +33,7 @@ const sachin = {
   name: "Sachin MP",
   roles: ["Java Full Stack Developer", "AI/ML Enthusiast"],
   location: "Bengaluru, Karnataka, India",
-  education: "B.E. in CSE — Cambridge Institute of Technology, North Campus (2022–2026)",
+  education: "B.E. in CSE — Cambridge Institute of Technology North Campus (2022–2026)",
   experience: "AI/ML Intern @ Samsung Innovation Campus",
   interests: ["Backend systems in Java", "Full-stack web development", "Applied AI/ML"],
   certifications: [
